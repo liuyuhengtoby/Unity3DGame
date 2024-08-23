@@ -1,7 +1,8 @@
 # Unity3DGame
 A 3D third-person RPG game demo
 
-Due to large file size, the original file is not uploaded, only the executable
+Due to large file size, the original file is not uploaded, the executable can be found on my itch:
+https://liuyuhengtoby.itch.io/
 
 ## Some features in the game:
 1. orignal terrain created
